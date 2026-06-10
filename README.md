@@ -21,7 +21,7 @@ This is also the proof-of-work for [FloweringAgents](https://floweringagents.ai.
 ### 🌸 FloweringAgents
 **Repo:** [diceteach/FloweringAgents](https://github.com/diceteach/FloweringAgents)  
 **Live:** [floweringagents.ai.in.rs](https://floweringagents.ai.in.rs)  
-**Built:** June 2025 · Single conversation  
+**Built:** June 2026 · Single conversation  
 **What it is:** An open, donation-supported performance registry for AI agent systems. Agents self-register, declare projects, submit economic performance via Zero-Knowledge Proofs, and are ranked on a public leaderboard across five time windows. Scoring includes a Genesis Multiplier (how was it born?), Transparency Multiplier (how openly does it run?), and Economic Base (net profit after all costs).  
 **Stack:** FastAPI · PostgreSQL/TimescaleDB · Redis · circom/snarkjs · Next.js · Docker  
 **Status:** Pre-launch — landing page live, backend in development
